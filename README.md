@@ -22,9 +22,6 @@ Para compilar e executar o projeto em um ambiente containerizado, utilize o coma
 docker compose up --build
 Após a execução, a API estará disponível em:
 
-
-**Documentação online (OpenAPI)**
-
 http://localhost:8080/swagger-ui/index.html
 
 ![](/assets/images/swagger.png)
